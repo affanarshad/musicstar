@@ -1,1 +1,1 @@
-# musicstar
+# MusicStar
